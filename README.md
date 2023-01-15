@@ -1,2 +1,2 @@
 # Teste-JS
-Este arquivo é um teste referente aos estueos em Java Script.
+Este arquivo é um teste referente aos estudos em Java Script.
