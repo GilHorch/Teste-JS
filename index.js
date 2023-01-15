@@ -1,1 +1,1 @@
-alert('alerta de página extarna');
+alert('alerta de página externa');
